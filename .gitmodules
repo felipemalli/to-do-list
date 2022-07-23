@@ -1,3 +1,0 @@
-[submodule "api"]
-	path = api
-	url = git@github.com:felipemalli/to-do-list-api.git
